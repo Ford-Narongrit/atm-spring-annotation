@@ -1,5 +1,6 @@
 package atm;
 
+
 /**
  * A bank customer with a checking and a savings account.
  */
